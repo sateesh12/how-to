@@ -1,0 +1,10 @@
+This is a high level steps on how to get Jupyter notebook to see the GPUs. This is applicable for the laptop machines which have an Nvidia GPUs. The steps are simple
+
+1. Install WSL on Windows
+2. Install conda and create a new environment
+3. Install tensor flow within this instance of linux on windows
+4. Install jupter, nbextensions
+5. All set
+
+
+PS: https://www.tensorflow.org/install/pip#windows-wsl2
